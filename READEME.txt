@@ -1,5 +1,7 @@
 Sprint 3 Python
 
+Repositório do GitHub: https://github.com/Loreto1306/menu_tipo_sanguineo_py
+
 App.py - Blood_Info
 
 Integrantes:    Artur Loreto     -  RM:552851
