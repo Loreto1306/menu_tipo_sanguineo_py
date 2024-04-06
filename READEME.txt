@@ -1,0 +1,14 @@
+Sprint 3 Python
+
+App.py - Blood_Info
+
+Integrantes:    Artur Loreto     -  RM:552851
+                Vinicius Caetano -  RM:552904
+                Rafael del Padre -  RM:552765
+                Caio Tominaga    -  RM:553633
+                Wesley Vieira    -  RM:553496
+
+Objetivo:
+    - Nosso projeto consiste em um menu interativo, basicamente para consulta de informações;
+    - Inicialmente foi projeto para demonstrar as funções dos 3 principais grupos de um exame de sangue, Hemácias, Globulos Brancos e Plaquetas;
+    - É possível também escolher o tipo sanguíneo do usuário, possibilitando a ele saber qual a % de brasileiros com o mesmo tipo
